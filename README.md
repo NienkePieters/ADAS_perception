@@ -9,3 +9,4 @@ This research consisted of 2 parts.
 - A Ordinal Logistic regression was estimated, to see how people arrive at each perception rating for ADAS pacakges. To be specific in the type of regression: Cumulative odds ordinal logistic regression with proportional odds. This type of ordinal regression uses cumulative categories representing the perception ratings.
 - From the observed choices, discrete choice models are estimated that indicates whether Perceived Internal Safety (PIS), Perceived External Safety (PES), Perceived Comfort (PC), Luxurious features (LUX) or Price (PR) have a stronger effect on utility, and as such on choices
 
+In Attributes.ipyb a Notebook can be found which is used for the pilot (34 respondents that made 8 choices each), to estimate the impact of each attribute (each ADAS) on perceived utility of a package. These numbers are used as primers.
