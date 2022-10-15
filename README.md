@@ -7,7 +7,7 @@ In this project 2 topics are researched:
 2. The effect of Perceived Internal Safety (PIS), Perceived External Safety (PES) and Perceived Comfort (PC) on the final choice for a package.
 
 What was done during this research:
-- I created a survey and conducted a pilot & final version with an online respondents group.
+- I created a survey, and conducted a pilot & final version with an online respondents group.
 - For topic 1, the respondents had to rate each package on each of the 3 metrics. Based on this data, an Ordinal Logistic regression was estimated, to see how people arrive at each perception rating for ADAS packages.
 - For topic 2, the respondent had to choose between three packages (A, B, C) after rating them. From the observed choices, discrete choice models are estimated that indicates whether Perceived Internal Safety (PIS), Perceived External Safety (PES), Perceived Comfort (PC), Luxurious features (LUX) or Price (PR) have a stronger effect on utility, and as such on choices
 
