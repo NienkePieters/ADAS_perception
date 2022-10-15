@@ -1,6 +1,6 @@
 # ADAS_perception [WIP]
 
-This code is based on my Msc thesis. It contains a discrete choice research into the impact of ADAS (Advanced Driver Assistance Systems) on consumers' perceived comfort and safety (for the driver as well other road users) of cars. The final report for this research can be found here: https://repository.tudelft.nl/islandora/object/uuid%3Aed189e28-7dd7-4bce-8ceb-d6fa8686d222. I am still updating this project such that it is readable and presentable.
+This code is based on my Msc thesis. It contains a discrete choice research into the impact of ADAS (Advanced Driver Assistance Systems) on consumers' perceived comfort and safety (for the driver as well other road users) of lease cars. The final report for this research can be found here: https://repository.tudelft.nl/islandora/object/uuid%3Aed189e28-7dd7-4bce-8ceb-d6fa8686d222. I am still updating this project such that it is readable and presentable.
 
 In this project 2 topics are researched:
 1. The effect of an ADAS configuration on Perceived Internal Safety (PIS), Perceived External Safety (PES) and Perceived Comfort (PC) of the lease car.
